@@ -1,9 +1,6 @@
-# Python-generated files
+.env
+.venv
+.git
 __pycache__
 *.pyc
 uploads/
-
-# Virtual environments
-.venv
-.env
-.git
